@@ -1,0 +1,16 @@
+C:\Users\djand\workspace\lightningExercises\book\bin\Debug\net5.0\book.exe
+C:\Users\djand\workspace\lightningExercises\book\bin\Debug\net5.0\book.deps.json
+C:\Users\djand\workspace\lightningExercises\book\bin\Debug\net5.0\book.runtimeconfig.json
+C:\Users\djand\workspace\lightningExercises\book\bin\Debug\net5.0\book.runtimeconfig.dev.json
+C:\Users\djand\workspace\lightningExercises\book\bin\Debug\net5.0\book.dll
+C:\Users\djand\workspace\lightningExercises\book\bin\Debug\net5.0\ref\book.dll
+C:\Users\djand\workspace\lightningExercises\book\bin\Debug\net5.0\book.pdb
+C:\Users\djand\workspace\lightningExercises\book\obj\Debug\net5.0\book.csproj.AssemblyReference.cache
+C:\Users\djand\workspace\lightningExercises\book\obj\Debug\net5.0\book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djand\workspace\lightningExercises\book\obj\Debug\net5.0\book.AssemblyInfoInputs.cache
+C:\Users\djand\workspace\lightningExercises\book\obj\Debug\net5.0\book.AssemblyInfo.cs
+C:\Users\djand\workspace\lightningExercises\book\obj\Debug\net5.0\book.csproj.CoreCompileInputs.cache
+C:\Users\djand\workspace\lightningExercises\book\obj\Debug\net5.0\book.dll
+C:\Users\djand\workspace\lightningExercises\book\obj\Debug\net5.0\ref\book.dll
+C:\Users\djand\workspace\lightningExercises\book\obj\Debug\net5.0\book.pdb
+C:\Users\djand\workspace\lightningExercises\book\obj\Debug\net5.0\book.genruntimeconfig.cache

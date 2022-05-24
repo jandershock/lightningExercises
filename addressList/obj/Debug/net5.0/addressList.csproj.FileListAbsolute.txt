@@ -1,0 +1,16 @@
+C:\Users\djand\workspace\lightningExercises\addressList\bin\Debug\net5.0\addressList.exe
+C:\Users\djand\workspace\lightningExercises\addressList\bin\Debug\net5.0\addressList.deps.json
+C:\Users\djand\workspace\lightningExercises\addressList\bin\Debug\net5.0\addressList.runtimeconfig.json
+C:\Users\djand\workspace\lightningExercises\addressList\bin\Debug\net5.0\addressList.runtimeconfig.dev.json
+C:\Users\djand\workspace\lightningExercises\addressList\bin\Debug\net5.0\addressList.dll
+C:\Users\djand\workspace\lightningExercises\addressList\bin\Debug\net5.0\ref\addressList.dll
+C:\Users\djand\workspace\lightningExercises\addressList\bin\Debug\net5.0\addressList.pdb
+C:\Users\djand\workspace\lightningExercises\addressList\obj\Debug\net5.0\addressList.csproj.AssemblyReference.cache
+C:\Users\djand\workspace\lightningExercises\addressList\obj\Debug\net5.0\addressList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djand\workspace\lightningExercises\addressList\obj\Debug\net5.0\addressList.AssemblyInfoInputs.cache
+C:\Users\djand\workspace\lightningExercises\addressList\obj\Debug\net5.0\addressList.AssemblyInfo.cs
+C:\Users\djand\workspace\lightningExercises\addressList\obj\Debug\net5.0\addressList.csproj.CoreCompileInputs.cache
+C:\Users\djand\workspace\lightningExercises\addressList\obj\Debug\net5.0\addressList.dll
+C:\Users\djand\workspace\lightningExercises\addressList\obj\Debug\net5.0\ref\addressList.dll
+C:\Users\djand\workspace\lightningExercises\addressList\obj\Debug\net5.0\addressList.pdb
+C:\Users\djand\workspace\lightningExercises\addressList\obj\Debug\net5.0\addressList.genruntimeconfig.cache
